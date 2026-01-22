@@ -16,4 +16,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://kursy-po-zashchite-personalnyh-dann.vercel.app/sitemap.xml
+Sitemap: https://kursy-zashchita-personalnyh-dannykh.vercel.app/sitemap.xml
